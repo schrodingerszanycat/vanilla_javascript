@@ -186,5 +186,5 @@ main {
 }
 .btn:hover {
   color: var(--clr-white);
-  background: var(--clr-black);
+  background: var(--clr-primary-1);
 }
